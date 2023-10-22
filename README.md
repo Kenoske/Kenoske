@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Fictional Content</title>
+  <title></title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to Fictional Content</h1>
+    <h1>ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴠɪsɪᴛᴇᴅ</h1>
     <nav>
       <ul>
         <li><a href="#">Home</a></li>

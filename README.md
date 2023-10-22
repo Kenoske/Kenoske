@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html>
      <head>
+          <title>Welcome to Rin Profile in Github</title>
      </head>
-         <body>
-           This is my first time with html
-         </body>
+     <body>
+          <h1 Welcome to Rin Profile in Github >
+     </body>
 </html>
